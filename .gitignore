@@ -1,0 +1,37 @@
+# Server (backend) specific
+server/node_modules/
+server/dist/
+server/build/
+server/*.log
+server/.env
+server/.env.local
+server/package-lock.json
+
+# Client (frontend) specific
+client/node_modules/
+client/dist/
+client/build/
+client/*.log
+client/.env
+client/.env.local
+
+# MacOS system files
+.DS_Store
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+logs/
+npm-debug.log*
+
+# Optional npm cache & debug logs
+.npm/
+
+# Temporary files
+tmp/
+temp/

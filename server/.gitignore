@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# MacOS system files
+.DS_Store
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Optional npm cache & debug logs
+.npm/
+npm-debug.log*
+
+# Temporary files
+tmp/
+temp/
